@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 button {
   cursor: pointer;
   border: none;
@@ -30,4 +31,2586 @@ button {
 .btn-whatsapp svg {
   width: 1.25rem;
   height: 1.25rem;
+}
+
+.btn-premium {
+  display: inline-flex;
+  align-items: center;
+  font-weight: 600;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 0.3s;
+  animation-duration: 0.3s;
+  color: rgb(250, 248, 245);
+  box-shadow: rgba(99, 52, 29, 0.4) 0px 4px 20px -5px;
+  gap: 0.5rem;
+  border-radius: 9999px;
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(135deg, hsl(20, 55%, 30%) 0%, hsl(20, 60%, 20%) 100%);
+}
+.btn-premium:hover {
+  box-shadow: rgba(99, 52, 29, 0.6) 0px 6px 25px -4px;
+  transform: translateY(-2px);
+}
+.btn-premium:active {
+  box-shadow: rgba(99, 52, 29, 0.2) 0px 2px 10px -1px;
+  transform: translateY(0px);
+}
+.btn-premium svg {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+.text-primary {
+  color: hsl(20, 55%, 25%);
+}
+
+.text-primary\/0 {
+  color: hsl(20 55% 25% / 0%);
+}
+
+.text-primary\/1 {
+  color: hsl(20 55% 25% / 1%);
+}
+
+.text-primary\/2 {
+  color: hsl(20 55% 25% / 2%);
+}
+
+.text-primary\/3 {
+  color: hsl(20 55% 25% / 3%);
+}
+
+.text-primary\/4 {
+  color: hsl(20 55% 25% / 4%);
+}
+
+.text-primary\/5 {
+  color: hsl(20 55% 25% / 5%);
+}
+
+.text-primary\/6 {
+  color: hsl(20 55% 25% / 6%);
+}
+
+.text-primary\/7 {
+  color: hsl(20 55% 25% / 7%);
+}
+
+.text-primary\/8 {
+  color: hsl(20 55% 25% / 8%);
+}
+
+.text-primary\/9 {
+  color: hsl(20 55% 25% / 9%);
+}
+
+.text-primary\/10 {
+  color: hsl(20 55% 25% / 10%);
+}
+
+.text-primary\/11 {
+  color: hsl(20 55% 25% / 11%);
+}
+
+.text-primary\/12 {
+  color: hsl(20 55% 25% / 12%);
+}
+
+.text-primary\/13 {
+  color: hsl(20 55% 25% / 13%);
+}
+
+.text-primary\/14 {
+  color: hsl(20 55% 25% / 14%);
+}
+
+.text-primary\/15 {
+  color: hsl(20 55% 25% / 15%);
+}
+
+.text-primary\/16 {
+  color: hsl(20 55% 25% / 16%);
+}
+
+.text-primary\/17 {
+  color: hsl(20 55% 25% / 17%);
+}
+
+.text-primary\/18 {
+  color: hsl(20 55% 25% / 18%);
+}
+
+.text-primary\/19 {
+  color: hsl(20 55% 25% / 19%);
+}
+
+.text-primary\/20 {
+  color: hsl(20 55% 25% / 20%);
+}
+
+.text-primary\/21 {
+  color: hsl(20 55% 25% / 21%);
+}
+
+.text-primary\/22 {
+  color: hsl(20 55% 25% / 22%);
+}
+
+.text-primary\/23 {
+  color: hsl(20 55% 25% / 23%);
+}
+
+.text-primary\/24 {
+  color: hsl(20 55% 25% / 24%);
+}
+
+.text-primary\/25 {
+  color: hsl(20 55% 25% / 25%);
+}
+
+.text-primary\/26 {
+  color: hsl(20 55% 25% / 26%);
+}
+
+.text-primary\/27 {
+  color: hsl(20 55% 25% / 27%);
+}
+
+.text-primary\/28 {
+  color: hsl(20 55% 25% / 28%);
+}
+
+.text-primary\/29 {
+  color: hsl(20 55% 25% / 29%);
+}
+
+.text-primary\/30 {
+  color: hsl(20 55% 25% / 30%);
+}
+
+.text-primary\/31 {
+  color: hsl(20 55% 25% / 31%);
+}
+
+.text-primary\/32 {
+  color: hsl(20 55% 25% / 32%);
+}
+
+.text-primary\/33 {
+  color: hsl(20 55% 25% / 33%);
+}
+
+.text-primary\/34 {
+  color: hsl(20 55% 25% / 34%);
+}
+
+.text-primary\/35 {
+  color: hsl(20 55% 25% / 35%);
+}
+
+.text-primary\/36 {
+  color: hsl(20 55% 25% / 36%);
+}
+
+.text-primary\/37 {
+  color: hsl(20 55% 25% / 37%);
+}
+
+.text-primary\/38 {
+  color: hsl(20 55% 25% / 38%);
+}
+
+.text-primary\/39 {
+  color: hsl(20 55% 25% / 39%);
+}
+
+.text-primary\/40 {
+  color: hsl(20 55% 25% / 40%);
+}
+
+.text-primary\/41 {
+  color: hsl(20 55% 25% / 41%);
+}
+
+.text-primary\/42 {
+  color: hsl(20 55% 25% / 42%);
+}
+
+.text-primary\/43 {
+  color: hsl(20 55% 25% / 43%);
+}
+
+.text-primary\/44 {
+  color: hsl(20 55% 25% / 44%);
+}
+
+.text-primary\/45 {
+  color: hsl(20 55% 25% / 45%);
+}
+
+.text-primary\/46 {
+  color: hsl(20 55% 25% / 46%);
+}
+
+.text-primary\/47 {
+  color: hsl(20 55% 25% / 47%);
+}
+
+.text-primary\/48 {
+  color: hsl(20 55% 25% / 48%);
+}
+
+.text-primary\/49 {
+  color: hsl(20 55% 25% / 49%);
+}
+
+.text-primary\/50 {
+  color: hsl(20 55% 25% / 50%);
+}
+
+.text-primary\/51 {
+  color: hsl(20 55% 25% / 51%);
+}
+
+.text-primary\/52 {
+  color: hsl(20 55% 25% / 52%);
+}
+
+.text-primary\/53 {
+  color: hsl(20 55% 25% / 53%);
+}
+
+.text-primary\/54 {
+  color: hsl(20 55% 25% / 54%);
+}
+
+.text-primary\/55 {
+  color: hsl(20 55% 25% / 55%);
+}
+
+.text-primary\/56 {
+  color: hsl(20 55% 25% / 56%);
+}
+
+.text-primary\/57 {
+  color: hsl(20 55% 25% / 57%);
+}
+
+.text-primary\/58 {
+  color: hsl(20 55% 25% / 58%);
+}
+
+.text-primary\/59 {
+  color: hsl(20 55% 25% / 59%);
+}
+
+.text-primary\/60 {
+  color: hsl(20 55% 25% / 60%);
+}
+
+.text-primary\/61 {
+  color: hsl(20 55% 25% / 61%);
+}
+
+.text-primary\/62 {
+  color: hsl(20 55% 25% / 62%);
+}
+
+.text-primary\/63 {
+  color: hsl(20 55% 25% / 63%);
+}
+
+.text-primary\/64 {
+  color: hsl(20 55% 25% / 64%);
+}
+
+.text-primary\/65 {
+  color: hsl(20 55% 25% / 65%);
+}
+
+.text-primary\/66 {
+  color: hsl(20 55% 25% / 66%);
+}
+
+.text-primary\/67 {
+  color: hsl(20 55% 25% / 67%);
+}
+
+.text-primary\/68 {
+  color: hsl(20 55% 25% / 68%);
+}
+
+.text-primary\/69 {
+  color: hsl(20 55% 25% / 69%);
+}
+
+.text-primary\/70 {
+  color: hsl(20 55% 25% / 70%);
+}
+
+.text-primary\/71 {
+  color: hsl(20 55% 25% / 71%);
+}
+
+.text-primary\/72 {
+  color: hsl(20 55% 25% / 72%);
+}
+
+.text-primary\/73 {
+  color: hsl(20 55% 25% / 73%);
+}
+
+.text-primary\/74 {
+  color: hsl(20 55% 25% / 74%);
+}
+
+.text-primary\/75 {
+  color: hsl(20 55% 25% / 75%);
+}
+
+.text-primary\/76 {
+  color: hsl(20 55% 25% / 76%);
+}
+
+.text-primary\/77 {
+  color: hsl(20 55% 25% / 77%);
+}
+
+.text-primary\/78 {
+  color: hsl(20 55% 25% / 78%);
+}
+
+.text-primary\/79 {
+  color: hsl(20 55% 25% / 79%);
+}
+
+.text-primary\/80 {
+  color: hsl(20 55% 25% / 80%);
+}
+
+.text-primary\/81 {
+  color: hsl(20 55% 25% / 81%);
+}
+
+.text-primary\/82 {
+  color: hsl(20 55% 25% / 82%);
+}
+
+.text-primary\/83 {
+  color: hsl(20 55% 25% / 83%);
+}
+
+.text-primary\/84 {
+  color: hsl(20 55% 25% / 84%);
+}
+
+.text-primary\/85 {
+  color: hsl(20 55% 25% / 85%);
+}
+
+.text-primary\/86 {
+  color: hsl(20 55% 25% / 86%);
+}
+
+.text-primary\/87 {
+  color: hsl(20 55% 25% / 87%);
+}
+
+.text-primary\/88 {
+  color: hsl(20 55% 25% / 88%);
+}
+
+.text-primary\/89 {
+  color: hsl(20 55% 25% / 89%);
+}
+
+.text-primary\/90 {
+  color: hsl(20 55% 25% / 90%);
+}
+
+.text-primary\/91 {
+  color: hsl(20 55% 25% / 91%);
+}
+
+.text-primary\/92 {
+  color: hsl(20 55% 25% / 92%);
+}
+
+.text-primary\/93 {
+  color: hsl(20 55% 25% / 93%);
+}
+
+.text-primary\/94 {
+  color: hsl(20 55% 25% / 94%);
+}
+
+.text-primary\/95 {
+  color: hsl(20 55% 25% / 95%);
+}
+
+.text-primary\/96 {
+  color: hsl(20 55% 25% / 96%);
+}
+
+.text-primary\/97 {
+  color: hsl(20 55% 25% / 97%);
+}
+
+.text-primary\/98 {
+  color: hsl(20 55% 25% / 98%);
+}
+
+.text-primary\/99 {
+  color: hsl(20 55% 25% / 99%);
+}
+
+.text-primary\/100 {
+  color: hsl(20 55% 25% / 100%);
+}
+
+.text-accent {
+  color: hsl(38, 70%, 50%);
+}
+
+.text-accent\/0 {
+  color: hsl(38 70% 50% / 0%);
+}
+
+.text-accent\/1 {
+  color: hsl(38 70% 50% / 1%);
+}
+
+.text-accent\/2 {
+  color: hsl(38 70% 50% / 2%);
+}
+
+.text-accent\/3 {
+  color: hsl(38 70% 50% / 3%);
+}
+
+.text-accent\/4 {
+  color: hsl(38 70% 50% / 4%);
+}
+
+.text-accent\/5 {
+  color: hsl(38 70% 50% / 5%);
+}
+
+.text-accent\/6 {
+  color: hsl(38 70% 50% / 6%);
+}
+
+.text-accent\/7 {
+  color: hsl(38 70% 50% / 7%);
+}
+
+.text-accent\/8 {
+  color: hsl(38 70% 50% / 8%);
+}
+
+.text-accent\/9 {
+  color: hsl(38 70% 50% / 9%);
+}
+
+.text-accent\/10 {
+  color: hsl(38 70% 50% / 10%);
+}
+
+.text-accent\/11 {
+  color: hsl(38 70% 50% / 11%);
+}
+
+.text-accent\/12 {
+  color: hsl(38 70% 50% / 12%);
+}
+
+.text-accent\/13 {
+  color: hsl(38 70% 50% / 13%);
+}
+
+.text-accent\/14 {
+  color: hsl(38 70% 50% / 14%);
+}
+
+.text-accent\/15 {
+  color: hsl(38 70% 50% / 15%);
+}
+
+.text-accent\/16 {
+  color: hsl(38 70% 50% / 16%);
+}
+
+.text-accent\/17 {
+  color: hsl(38 70% 50% / 17%);
+}
+
+.text-accent\/18 {
+  color: hsl(38 70% 50% / 18%);
+}
+
+.text-accent\/19 {
+  color: hsl(38 70% 50% / 19%);
+}
+
+.text-accent\/20 {
+  color: hsl(38 70% 50% / 20%);
+}
+
+.text-accent\/21 {
+  color: hsl(38 70% 50% / 21%);
+}
+
+.text-accent\/22 {
+  color: hsl(38 70% 50% / 22%);
+}
+
+.text-accent\/23 {
+  color: hsl(38 70% 50% / 23%);
+}
+
+.text-accent\/24 {
+  color: hsl(38 70% 50% / 24%);
+}
+
+.text-accent\/25 {
+  color: hsl(38 70% 50% / 25%);
+}
+
+.text-accent\/26 {
+  color: hsl(38 70% 50% / 26%);
+}
+
+.text-accent\/27 {
+  color: hsl(38 70% 50% / 27%);
+}
+
+.text-accent\/28 {
+  color: hsl(38 70% 50% / 28%);
+}
+
+.text-accent\/29 {
+  color: hsl(38 70% 50% / 29%);
+}
+
+.text-accent\/30 {
+  color: hsl(38 70% 50% / 30%);
+}
+
+.text-accent\/31 {
+  color: hsl(38 70% 50% / 31%);
+}
+
+.text-accent\/32 {
+  color: hsl(38 70% 50% / 32%);
+}
+
+.text-accent\/33 {
+  color: hsl(38 70% 50% / 33%);
+}
+
+.text-accent\/34 {
+  color: hsl(38 70% 50% / 34%);
+}
+
+.text-accent\/35 {
+  color: hsl(38 70% 50% / 35%);
+}
+
+.text-accent\/36 {
+  color: hsl(38 70% 50% / 36%);
+}
+
+.text-accent\/37 {
+  color: hsl(38 70% 50% / 37%);
+}
+
+.text-accent\/38 {
+  color: hsl(38 70% 50% / 38%);
+}
+
+.text-accent\/39 {
+  color: hsl(38 70% 50% / 39%);
+}
+
+.text-accent\/40 {
+  color: hsl(38 70% 50% / 40%);
+}
+
+.text-accent\/41 {
+  color: hsl(38 70% 50% / 41%);
+}
+
+.text-accent\/42 {
+  color: hsl(38 70% 50% / 42%);
+}
+
+.text-accent\/43 {
+  color: hsl(38 70% 50% / 43%);
+}
+
+.text-accent\/44 {
+  color: hsl(38 70% 50% / 44%);
+}
+
+.text-accent\/45 {
+  color: hsl(38 70% 50% / 45%);
+}
+
+.text-accent\/46 {
+  color: hsl(38 70% 50% / 46%);
+}
+
+.text-accent\/47 {
+  color: hsl(38 70% 50% / 47%);
+}
+
+.text-accent\/48 {
+  color: hsl(38 70% 50% / 48%);
+}
+
+.text-accent\/49 {
+  color: hsl(38 70% 50% / 49%);
+}
+
+.text-accent\/50 {
+  color: hsl(38 70% 50% / 50%);
+}
+
+.text-accent\/51 {
+  color: hsl(38 70% 50% / 51%);
+}
+
+.text-accent\/52 {
+  color: hsl(38 70% 50% / 52%);
+}
+
+.text-accent\/53 {
+  color: hsl(38 70% 50% / 53%);
+}
+
+.text-accent\/54 {
+  color: hsl(38 70% 50% / 54%);
+}
+
+.text-accent\/55 {
+  color: hsl(38 70% 50% / 55%);
+}
+
+.text-accent\/56 {
+  color: hsl(38 70% 50% / 56%);
+}
+
+.text-accent\/57 {
+  color: hsl(38 70% 50% / 57%);
+}
+
+.text-accent\/58 {
+  color: hsl(38 70% 50% / 58%);
+}
+
+.text-accent\/59 {
+  color: hsl(38 70% 50% / 59%);
+}
+
+.text-accent\/60 {
+  color: hsl(38 70% 50% / 60%);
+}
+
+.text-accent\/61 {
+  color: hsl(38 70% 50% / 61%);
+}
+
+.text-accent\/62 {
+  color: hsl(38 70% 50% / 62%);
+}
+
+.text-accent\/63 {
+  color: hsl(38 70% 50% / 63%);
+}
+
+.text-accent\/64 {
+  color: hsl(38 70% 50% / 64%);
+}
+
+.text-accent\/65 {
+  color: hsl(38 70% 50% / 65%);
+}
+
+.text-accent\/66 {
+  color: hsl(38 70% 50% / 66%);
+}
+
+.text-accent\/67 {
+  color: hsl(38 70% 50% / 67%);
+}
+
+.text-accent\/68 {
+  color: hsl(38 70% 50% / 68%);
+}
+
+.text-accent\/69 {
+  color: hsl(38 70% 50% / 69%);
+}
+
+.text-accent\/70 {
+  color: hsl(38 70% 50% / 70%);
+}
+
+.text-accent\/71 {
+  color: hsl(38 70% 50% / 71%);
+}
+
+.text-accent\/72 {
+  color: hsl(38 70% 50% / 72%);
+}
+
+.text-accent\/73 {
+  color: hsl(38 70% 50% / 73%);
+}
+
+.text-accent\/74 {
+  color: hsl(38 70% 50% / 74%);
+}
+
+.text-accent\/75 {
+  color: hsl(38 70% 50% / 75%);
+}
+
+.text-accent\/76 {
+  color: hsl(38 70% 50% / 76%);
+}
+
+.text-accent\/77 {
+  color: hsl(38 70% 50% / 77%);
+}
+
+.text-accent\/78 {
+  color: hsl(38 70% 50% / 78%);
+}
+
+.text-accent\/79 {
+  color: hsl(38 70% 50% / 79%);
+}
+
+.text-accent\/80 {
+  color: hsl(38 70% 50% / 80%);
+}
+
+.text-accent\/81 {
+  color: hsl(38 70% 50% / 81%);
+}
+
+.text-accent\/82 {
+  color: hsl(38 70% 50% / 82%);
+}
+
+.text-accent\/83 {
+  color: hsl(38 70% 50% / 83%);
+}
+
+.text-accent\/84 {
+  color: hsl(38 70% 50% / 84%);
+}
+
+.text-accent\/85 {
+  color: hsl(38 70% 50% / 85%);
+}
+
+.text-accent\/86 {
+  color: hsl(38 70% 50% / 86%);
+}
+
+.text-accent\/87 {
+  color: hsl(38 70% 50% / 87%);
+}
+
+.text-accent\/88 {
+  color: hsl(38 70% 50% / 88%);
+}
+
+.text-accent\/89 {
+  color: hsl(38 70% 50% / 89%);
+}
+
+.text-accent\/90 {
+  color: hsl(38 70% 50% / 90%);
+}
+
+.text-accent\/91 {
+  color: hsl(38 70% 50% / 91%);
+}
+
+.text-accent\/92 {
+  color: hsl(38 70% 50% / 92%);
+}
+
+.text-accent\/93 {
+  color: hsl(38 70% 50% / 93%);
+}
+
+.text-accent\/94 {
+  color: hsl(38 70% 50% / 94%);
+}
+
+.text-accent\/95 {
+  color: hsl(38 70% 50% / 95%);
+}
+
+.text-accent\/96 {
+  color: hsl(38 70% 50% / 96%);
+}
+
+.text-accent\/97 {
+  color: hsl(38 70% 50% / 97%);
+}
+
+.text-accent\/98 {
+  color: hsl(38 70% 50% / 98%);
+}
+
+.text-accent\/99 {
+  color: hsl(38 70% 50% / 99%);
+}
+
+.text-accent\/100 {
+  color: hsl(38 70% 50% / 100%);
+}
+
+.text-gradient-golden {
+  background: linear-gradient(135deg, #dda23c, #a86624);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-family: "Playfair Display", serif, serif;
+}
+
+.text-muted-foreground {
+  color: hsl(25, 20%, 40%);
+}
+
+.bg-primary {
+  background-color: hsl(20, 55%, 25%);
+}
+
+.bg-primary\/0 {
+  background-color: hsl(20 55% 25% / 0%);
+}
+
+.bg-primary\/1 {
+  background-color: hsl(20 55% 25% / 1%);
+}
+
+.bg-primary\/2 {
+  background-color: hsl(20 55% 25% / 2%);
+}
+
+.bg-primary\/3 {
+  background-color: hsl(20 55% 25% / 3%);
+}
+
+.bg-primary\/4 {
+  background-color: hsl(20 55% 25% / 4%);
+}
+
+.bg-primary\/5 {
+  background-color: hsl(20 55% 25% / 5%);
+}
+
+.bg-primary\/6 {
+  background-color: hsl(20 55% 25% / 6%);
+}
+
+.bg-primary\/7 {
+  background-color: hsl(20 55% 25% / 7%);
+}
+
+.bg-primary\/8 {
+  background-color: hsl(20 55% 25% / 8%);
+}
+
+.bg-primary\/9 {
+  background-color: hsl(20 55% 25% / 9%);
+}
+
+.bg-primary\/10 {
+  background-color: hsl(20 55% 25% / 10%);
+}
+
+.bg-primary\/11 {
+  background-color: hsl(20 55% 25% / 11%);
+}
+
+.bg-primary\/12 {
+  background-color: hsl(20 55% 25% / 12%);
+}
+
+.bg-primary\/13 {
+  background-color: hsl(20 55% 25% / 13%);
+}
+
+.bg-primary\/14 {
+  background-color: hsl(20 55% 25% / 14%);
+}
+
+.bg-primary\/15 {
+  background-color: hsl(20 55% 25% / 15%);
+}
+
+.bg-primary\/16 {
+  background-color: hsl(20 55% 25% / 16%);
+}
+
+.bg-primary\/17 {
+  background-color: hsl(20 55% 25% / 17%);
+}
+
+.bg-primary\/18 {
+  background-color: hsl(20 55% 25% / 18%);
+}
+
+.bg-primary\/19 {
+  background-color: hsl(20 55% 25% / 19%);
+}
+
+.bg-primary\/20 {
+  background-color: hsl(20 55% 25% / 20%);
+}
+
+.bg-primary\/21 {
+  background-color: hsl(20 55% 25% / 21%);
+}
+
+.bg-primary\/22 {
+  background-color: hsl(20 55% 25% / 22%);
+}
+
+.bg-primary\/23 {
+  background-color: hsl(20 55% 25% / 23%);
+}
+
+.bg-primary\/24 {
+  background-color: hsl(20 55% 25% / 24%);
+}
+
+.bg-primary\/25 {
+  background-color: hsl(20 55% 25% / 25%);
+}
+
+.bg-primary\/26 {
+  background-color: hsl(20 55% 25% / 26%);
+}
+
+.bg-primary\/27 {
+  background-color: hsl(20 55% 25% / 27%);
+}
+
+.bg-primary\/28 {
+  background-color: hsl(20 55% 25% / 28%);
+}
+
+.bg-primary\/29 {
+  background-color: hsl(20 55% 25% / 29%);
+}
+
+.bg-primary\/30 {
+  background-color: hsl(20 55% 25% / 30%);
+}
+
+.bg-primary\/31 {
+  background-color: hsl(20 55% 25% / 31%);
+}
+
+.bg-primary\/32 {
+  background-color: hsl(20 55% 25% / 32%);
+}
+
+.bg-primary\/33 {
+  background-color: hsl(20 55% 25% / 33%);
+}
+
+.bg-primary\/34 {
+  background-color: hsl(20 55% 25% / 34%);
+}
+
+.bg-primary\/35 {
+  background-color: hsl(20 55% 25% / 35%);
+}
+
+.bg-primary\/36 {
+  background-color: hsl(20 55% 25% / 36%);
+}
+
+.bg-primary\/37 {
+  background-color: hsl(20 55% 25% / 37%);
+}
+
+.bg-primary\/38 {
+  background-color: hsl(20 55% 25% / 38%);
+}
+
+.bg-primary\/39 {
+  background-color: hsl(20 55% 25% / 39%);
+}
+
+.bg-primary\/40 {
+  background-color: hsl(20 55% 25% / 40%);
+}
+
+.bg-primary\/41 {
+  background-color: hsl(20 55% 25% / 41%);
+}
+
+.bg-primary\/42 {
+  background-color: hsl(20 55% 25% / 42%);
+}
+
+.bg-primary\/43 {
+  background-color: hsl(20 55% 25% / 43%);
+}
+
+.bg-primary\/44 {
+  background-color: hsl(20 55% 25% / 44%);
+}
+
+.bg-primary\/45 {
+  background-color: hsl(20 55% 25% / 45%);
+}
+
+.bg-primary\/46 {
+  background-color: hsl(20 55% 25% / 46%);
+}
+
+.bg-primary\/47 {
+  background-color: hsl(20 55% 25% / 47%);
+}
+
+.bg-primary\/48 {
+  background-color: hsl(20 55% 25% / 48%);
+}
+
+.bg-primary\/49 {
+  background-color: hsl(20 55% 25% / 49%);
+}
+
+.bg-primary\/50 {
+  background-color: hsl(20 55% 25% / 50%);
+}
+
+.bg-primary\/51 {
+  background-color: hsl(20 55% 25% / 51%);
+}
+
+.bg-primary\/52 {
+  background-color: hsl(20 55% 25% / 52%);
+}
+
+.bg-primary\/53 {
+  background-color: hsl(20 55% 25% / 53%);
+}
+
+.bg-primary\/54 {
+  background-color: hsl(20 55% 25% / 54%);
+}
+
+.bg-primary\/55 {
+  background-color: hsl(20 55% 25% / 55%);
+}
+
+.bg-primary\/56 {
+  background-color: hsl(20 55% 25% / 56%);
+}
+
+.bg-primary\/57 {
+  background-color: hsl(20 55% 25% / 57%);
+}
+
+.bg-primary\/58 {
+  background-color: hsl(20 55% 25% / 58%);
+}
+
+.bg-primary\/59 {
+  background-color: hsl(20 55% 25% / 59%);
+}
+
+.bg-primary\/60 {
+  background-color: hsl(20 55% 25% / 60%);
+}
+
+.bg-primary\/61 {
+  background-color: hsl(20 55% 25% / 61%);
+}
+
+.bg-primary\/62 {
+  background-color: hsl(20 55% 25% / 62%);
+}
+
+.bg-primary\/63 {
+  background-color: hsl(20 55% 25% / 63%);
+}
+
+.bg-primary\/64 {
+  background-color: hsl(20 55% 25% / 64%);
+}
+
+.bg-primary\/65 {
+  background-color: hsl(20 55% 25% / 65%);
+}
+
+.bg-primary\/66 {
+  background-color: hsl(20 55% 25% / 66%);
+}
+
+.bg-primary\/67 {
+  background-color: hsl(20 55% 25% / 67%);
+}
+
+.bg-primary\/68 {
+  background-color: hsl(20 55% 25% / 68%);
+}
+
+.bg-primary\/69 {
+  background-color: hsl(20 55% 25% / 69%);
+}
+
+.bg-primary\/70 {
+  background-color: hsl(20 55% 25% / 70%);
+}
+
+.bg-primary\/71 {
+  background-color: hsl(20 55% 25% / 71%);
+}
+
+.bg-primary\/72 {
+  background-color: hsl(20 55% 25% / 72%);
+}
+
+.bg-primary\/73 {
+  background-color: hsl(20 55% 25% / 73%);
+}
+
+.bg-primary\/74 {
+  background-color: hsl(20 55% 25% / 74%);
+}
+
+.bg-primary\/75 {
+  background-color: hsl(20 55% 25% / 75%);
+}
+
+.bg-primary\/76 {
+  background-color: hsl(20 55% 25% / 76%);
+}
+
+.bg-primary\/77 {
+  background-color: hsl(20 55% 25% / 77%);
+}
+
+.bg-primary\/78 {
+  background-color: hsl(20 55% 25% / 78%);
+}
+
+.bg-primary\/79 {
+  background-color: hsl(20 55% 25% / 79%);
+}
+
+.bg-primary\/80 {
+  background-color: hsl(20 55% 25% / 80%);
+}
+
+.bg-primary\/81 {
+  background-color: hsl(20 55% 25% / 81%);
+}
+
+.bg-primary\/82 {
+  background-color: hsl(20 55% 25% / 82%);
+}
+
+.bg-primary\/83 {
+  background-color: hsl(20 55% 25% / 83%);
+}
+
+.bg-primary\/84 {
+  background-color: hsl(20 55% 25% / 84%);
+}
+
+.bg-primary\/85 {
+  background-color: hsl(20 55% 25% / 85%);
+}
+
+.bg-primary\/86 {
+  background-color: hsl(20 55% 25% / 86%);
+}
+
+.bg-primary\/87 {
+  background-color: hsl(20 55% 25% / 87%);
+}
+
+.bg-primary\/88 {
+  background-color: hsl(20 55% 25% / 88%);
+}
+
+.bg-primary\/89 {
+  background-color: hsl(20 55% 25% / 89%);
+}
+
+.bg-primary\/90 {
+  background-color: hsl(20 55% 25% / 90%);
+}
+
+.bg-primary\/91 {
+  background-color: hsl(20 55% 25% / 91%);
+}
+
+.bg-primary\/92 {
+  background-color: hsl(20 55% 25% / 92%);
+}
+
+.bg-primary\/93 {
+  background-color: hsl(20 55% 25% / 93%);
+}
+
+.bg-primary\/94 {
+  background-color: hsl(20 55% 25% / 94%);
+}
+
+.bg-primary\/95 {
+  background-color: hsl(20 55% 25% / 95%);
+}
+
+.bg-primary\/96 {
+  background-color: hsl(20 55% 25% / 96%);
+}
+
+.bg-primary\/97 {
+  background-color: hsl(20 55% 25% / 97%);
+}
+
+.bg-primary\/98 {
+  background-color: hsl(20 55% 25% / 98%);
+}
+
+.bg-primary\/99 {
+  background-color: hsl(20 55% 25% / 99%);
+}
+
+.bg-primary\/100 {
+  background-color: hsl(20 55% 25% / 100%);
+}
+
+.bg-leaf {
+  background-color: hsl(100, 50%, 35%);
+}
+
+.bg-leaf\/0 {
+  background-color: hsl(100 50% 35% / 0%);
+}
+
+.bg-leaf\/1 {
+  background-color: hsl(100 50% 35% / 1%);
+}
+
+.bg-leaf\/2 {
+  background-color: hsl(100 50% 35% / 2%);
+}
+
+.bg-leaf\/3 {
+  background-color: hsl(100 50% 35% / 3%);
+}
+
+.bg-leaf\/4 {
+  background-color: hsl(100 50% 35% / 4%);
+}
+
+.bg-leaf\/5 {
+  background-color: hsl(100 50% 35% / 5%);
+}
+
+.bg-leaf\/6 {
+  background-color: hsl(100 50% 35% / 6%);
+}
+
+.bg-leaf\/7 {
+  background-color: hsl(100 50% 35% / 7%);
+}
+
+.bg-leaf\/8 {
+  background-color: hsl(100 50% 35% / 8%);
+}
+
+.bg-leaf\/9 {
+  background-color: hsl(100 50% 35% / 9%);
+}
+
+.bg-leaf\/10 {
+  background-color: hsl(100 50% 35% / 10%);
+}
+
+.bg-leaf\/11 {
+  background-color: hsl(100 50% 35% / 11%);
+}
+
+.bg-leaf\/12 {
+  background-color: hsl(100 50% 35% / 12%);
+}
+
+.bg-leaf\/13 {
+  background-color: hsl(100 50% 35% / 13%);
+}
+
+.bg-leaf\/14 {
+  background-color: hsl(100 50% 35% / 14%);
+}
+
+.bg-leaf\/15 {
+  background-color: hsl(100 50% 35% / 15%);
+}
+
+.bg-leaf\/16 {
+  background-color: hsl(100 50% 35% / 16%);
+}
+
+.bg-leaf\/17 {
+  background-color: hsl(100 50% 35% / 17%);
+}
+
+.bg-leaf\/18 {
+  background-color: hsl(100 50% 35% / 18%);
+}
+
+.bg-leaf\/19 {
+  background-color: hsl(100 50% 35% / 19%);
+}
+
+.bg-leaf\/20 {
+  background-color: hsl(100 50% 35% / 20%);
+}
+
+.bg-leaf\/21 {
+  background-color: hsl(100 50% 35% / 21%);
+}
+
+.bg-leaf\/22 {
+  background-color: hsl(100 50% 35% / 22%);
+}
+
+.bg-leaf\/23 {
+  background-color: hsl(100 50% 35% / 23%);
+}
+
+.bg-leaf\/24 {
+  background-color: hsl(100 50% 35% / 24%);
+}
+
+.bg-leaf\/25 {
+  background-color: hsl(100 50% 35% / 25%);
+}
+
+.bg-leaf\/26 {
+  background-color: hsl(100 50% 35% / 26%);
+}
+
+.bg-leaf\/27 {
+  background-color: hsl(100 50% 35% / 27%);
+}
+
+.bg-leaf\/28 {
+  background-color: hsl(100 50% 35% / 28%);
+}
+
+.bg-leaf\/29 {
+  background-color: hsl(100 50% 35% / 29%);
+}
+
+.bg-leaf\/30 {
+  background-color: hsl(100 50% 35% / 30%);
+}
+
+.bg-leaf\/31 {
+  background-color: hsl(100 50% 35% / 31%);
+}
+
+.bg-leaf\/32 {
+  background-color: hsl(100 50% 35% / 32%);
+}
+
+.bg-leaf\/33 {
+  background-color: hsl(100 50% 35% / 33%);
+}
+
+.bg-leaf\/34 {
+  background-color: hsl(100 50% 35% / 34%);
+}
+
+.bg-leaf\/35 {
+  background-color: hsl(100 50% 35% / 35%);
+}
+
+.bg-leaf\/36 {
+  background-color: hsl(100 50% 35% / 36%);
+}
+
+.bg-leaf\/37 {
+  background-color: hsl(100 50% 35% / 37%);
+}
+
+.bg-leaf\/38 {
+  background-color: hsl(100 50% 35% / 38%);
+}
+
+.bg-leaf\/39 {
+  background-color: hsl(100 50% 35% / 39%);
+}
+
+.bg-leaf\/40 {
+  background-color: hsl(100 50% 35% / 40%);
+}
+
+.bg-leaf\/41 {
+  background-color: hsl(100 50% 35% / 41%);
+}
+
+.bg-leaf\/42 {
+  background-color: hsl(100 50% 35% / 42%);
+}
+
+.bg-leaf\/43 {
+  background-color: hsl(100 50% 35% / 43%);
+}
+
+.bg-leaf\/44 {
+  background-color: hsl(100 50% 35% / 44%);
+}
+
+.bg-leaf\/45 {
+  background-color: hsl(100 50% 35% / 45%);
+}
+
+.bg-leaf\/46 {
+  background-color: hsl(100 50% 35% / 46%);
+}
+
+.bg-leaf\/47 {
+  background-color: hsl(100 50% 35% / 47%);
+}
+
+.bg-leaf\/48 {
+  background-color: hsl(100 50% 35% / 48%);
+}
+
+.bg-leaf\/49 {
+  background-color: hsl(100 50% 35% / 49%);
+}
+
+.bg-leaf\/50 {
+  background-color: hsl(100 50% 35% / 50%);
+}
+
+.bg-leaf\/51 {
+  background-color: hsl(100 50% 35% / 51%);
+}
+
+.bg-leaf\/52 {
+  background-color: hsl(100 50% 35% / 52%);
+}
+
+.bg-leaf\/53 {
+  background-color: hsl(100 50% 35% / 53%);
+}
+
+.bg-leaf\/54 {
+  background-color: hsl(100 50% 35% / 54%);
+}
+
+.bg-leaf\/55 {
+  background-color: hsl(100 50% 35% / 55%);
+}
+
+.bg-leaf\/56 {
+  background-color: hsl(100 50% 35% / 56%);
+}
+
+.bg-leaf\/57 {
+  background-color: hsl(100 50% 35% / 57%);
+}
+
+.bg-leaf\/58 {
+  background-color: hsl(100 50% 35% / 58%);
+}
+
+.bg-leaf\/59 {
+  background-color: hsl(100 50% 35% / 59%);
+}
+
+.bg-leaf\/60 {
+  background-color: hsl(100 50% 35% / 60%);
+}
+
+.bg-leaf\/61 {
+  background-color: hsl(100 50% 35% / 61%);
+}
+
+.bg-leaf\/62 {
+  background-color: hsl(100 50% 35% / 62%);
+}
+
+.bg-leaf\/63 {
+  background-color: hsl(100 50% 35% / 63%);
+}
+
+.bg-leaf\/64 {
+  background-color: hsl(100 50% 35% / 64%);
+}
+
+.bg-leaf\/65 {
+  background-color: hsl(100 50% 35% / 65%);
+}
+
+.bg-leaf\/66 {
+  background-color: hsl(100 50% 35% / 66%);
+}
+
+.bg-leaf\/67 {
+  background-color: hsl(100 50% 35% / 67%);
+}
+
+.bg-leaf\/68 {
+  background-color: hsl(100 50% 35% / 68%);
+}
+
+.bg-leaf\/69 {
+  background-color: hsl(100 50% 35% / 69%);
+}
+
+.bg-leaf\/70 {
+  background-color: hsl(100 50% 35% / 70%);
+}
+
+.bg-leaf\/71 {
+  background-color: hsl(100 50% 35% / 71%);
+}
+
+.bg-leaf\/72 {
+  background-color: hsl(100 50% 35% / 72%);
+}
+
+.bg-leaf\/73 {
+  background-color: hsl(100 50% 35% / 73%);
+}
+
+.bg-leaf\/74 {
+  background-color: hsl(100 50% 35% / 74%);
+}
+
+.bg-leaf\/75 {
+  background-color: hsl(100 50% 35% / 75%);
+}
+
+.bg-leaf\/76 {
+  background-color: hsl(100 50% 35% / 76%);
+}
+
+.bg-leaf\/77 {
+  background-color: hsl(100 50% 35% / 77%);
+}
+
+.bg-leaf\/78 {
+  background-color: hsl(100 50% 35% / 78%);
+}
+
+.bg-leaf\/79 {
+  background-color: hsl(100 50% 35% / 79%);
+}
+
+.bg-leaf\/80 {
+  background-color: hsl(100 50% 35% / 80%);
+}
+
+.bg-leaf\/81 {
+  background-color: hsl(100 50% 35% / 81%);
+}
+
+.bg-leaf\/82 {
+  background-color: hsl(100 50% 35% / 82%);
+}
+
+.bg-leaf\/83 {
+  background-color: hsl(100 50% 35% / 83%);
+}
+
+.bg-leaf\/84 {
+  background-color: hsl(100 50% 35% / 84%);
+}
+
+.bg-leaf\/85 {
+  background-color: hsl(100 50% 35% / 85%);
+}
+
+.bg-leaf\/86 {
+  background-color: hsl(100 50% 35% / 86%);
+}
+
+.bg-leaf\/87 {
+  background-color: hsl(100 50% 35% / 87%);
+}
+
+.bg-leaf\/88 {
+  background-color: hsl(100 50% 35% / 88%);
+}
+
+.bg-leaf\/89 {
+  background-color: hsl(100 50% 35% / 89%);
+}
+
+.bg-leaf\/90 {
+  background-color: hsl(100 50% 35% / 90%);
+}
+
+.bg-leaf\/91 {
+  background-color: hsl(100 50% 35% / 91%);
+}
+
+.bg-leaf\/92 {
+  background-color: hsl(100 50% 35% / 92%);
+}
+
+.bg-leaf\/93 {
+  background-color: hsl(100 50% 35% / 93%);
+}
+
+.bg-leaf\/94 {
+  background-color: hsl(100 50% 35% / 94%);
+}
+
+.bg-leaf\/95 {
+  background-color: hsl(100 50% 35% / 95%);
+}
+
+.bg-leaf\/96 {
+  background-color: hsl(100 50% 35% / 96%);
+}
+
+.bg-leaf\/97 {
+  background-color: hsl(100 50% 35% / 97%);
+}
+
+.bg-leaf\/98 {
+  background-color: hsl(100 50% 35% / 98%);
+}
+
+.bg-leaf\/99 {
+  background-color: hsl(100 50% 35% / 99%);
+}
+
+.bg-leaf\/100 {
+  background-color: hsl(100 50% 35% / 100%);
+}
+
+.bg-accent {
+  background-color: hsl(38, 70%, 50%);
+}
+
+.bg-accent\/0 {
+  background-color: hsl(38 70% 50% / 0%);
+}
+
+.bg-accent\/1 {
+  background-color: hsl(38 70% 50% / 1%);
+}
+
+.bg-accent\/2 {
+  background-color: hsl(38 70% 50% / 2%);
+}
+
+.bg-accent\/3 {
+  background-color: hsl(38 70% 50% / 3%);
+}
+
+.bg-accent\/4 {
+  background-color: hsl(38 70% 50% / 4%);
+}
+
+.bg-accent\/5 {
+  background-color: hsl(38 70% 50% / 5%);
+}
+
+.bg-accent\/6 {
+  background-color: hsl(38 70% 50% / 6%);
+}
+
+.bg-accent\/7 {
+  background-color: hsl(38 70% 50% / 7%);
+}
+
+.bg-accent\/8 {
+  background-color: hsl(38 70% 50% / 8%);
+}
+
+.bg-accent\/9 {
+  background-color: hsl(38 70% 50% / 9%);
+}
+
+.bg-accent\/10 {
+  background-color: hsl(38 70% 50% / 10%);
+}
+
+.bg-accent\/11 {
+  background-color: hsl(38 70% 50% / 11%);
+}
+
+.bg-accent\/12 {
+  background-color: hsl(38 70% 50% / 12%);
+}
+
+.bg-accent\/13 {
+  background-color: hsl(38 70% 50% / 13%);
+}
+
+.bg-accent\/14 {
+  background-color: hsl(38 70% 50% / 14%);
+}
+
+.bg-accent\/15 {
+  background-color: hsl(38 70% 50% / 15%);
+}
+
+.bg-accent\/16 {
+  background-color: hsl(38 70% 50% / 16%);
+}
+
+.bg-accent\/17 {
+  background-color: hsl(38 70% 50% / 17%);
+}
+
+.bg-accent\/18 {
+  background-color: hsl(38 70% 50% / 18%);
+}
+
+.bg-accent\/19 {
+  background-color: hsl(38 70% 50% / 19%);
+}
+
+.bg-accent\/20 {
+  background-color: hsl(38 70% 50% / 20%);
+}
+
+.bg-accent\/21 {
+  background-color: hsl(38 70% 50% / 21%);
+}
+
+.bg-accent\/22 {
+  background-color: hsl(38 70% 50% / 22%);
+}
+
+.bg-accent\/23 {
+  background-color: hsl(38 70% 50% / 23%);
+}
+
+.bg-accent\/24 {
+  background-color: hsl(38 70% 50% / 24%);
+}
+
+.bg-accent\/25 {
+  background-color: hsl(38 70% 50% / 25%);
+}
+
+.bg-accent\/26 {
+  background-color: hsl(38 70% 50% / 26%);
+}
+
+.bg-accent\/27 {
+  background-color: hsl(38 70% 50% / 27%);
+}
+
+.bg-accent\/28 {
+  background-color: hsl(38 70% 50% / 28%);
+}
+
+.bg-accent\/29 {
+  background-color: hsl(38 70% 50% / 29%);
+}
+
+.bg-accent\/30 {
+  background-color: hsl(38 70% 50% / 30%);
+}
+
+.bg-accent\/31 {
+  background-color: hsl(38 70% 50% / 31%);
+}
+
+.bg-accent\/32 {
+  background-color: hsl(38 70% 50% / 32%);
+}
+
+.bg-accent\/33 {
+  background-color: hsl(38 70% 50% / 33%);
+}
+
+.bg-accent\/34 {
+  background-color: hsl(38 70% 50% / 34%);
+}
+
+.bg-accent\/35 {
+  background-color: hsl(38 70% 50% / 35%);
+}
+
+.bg-accent\/36 {
+  background-color: hsl(38 70% 50% / 36%);
+}
+
+.bg-accent\/37 {
+  background-color: hsl(38 70% 50% / 37%);
+}
+
+.bg-accent\/38 {
+  background-color: hsl(38 70% 50% / 38%);
+}
+
+.bg-accent\/39 {
+  background-color: hsl(38 70% 50% / 39%);
+}
+
+.bg-accent\/40 {
+  background-color: hsl(38 70% 50% / 40%);
+}
+
+.bg-accent\/41 {
+  background-color: hsl(38 70% 50% / 41%);
+}
+
+.bg-accent\/42 {
+  background-color: hsl(38 70% 50% / 42%);
+}
+
+.bg-accent\/43 {
+  background-color: hsl(38 70% 50% / 43%);
+}
+
+.bg-accent\/44 {
+  background-color: hsl(38 70% 50% / 44%);
+}
+
+.bg-accent\/45 {
+  background-color: hsl(38 70% 50% / 45%);
+}
+
+.bg-accent\/46 {
+  background-color: hsl(38 70% 50% / 46%);
+}
+
+.bg-accent\/47 {
+  background-color: hsl(38 70% 50% / 47%);
+}
+
+.bg-accent\/48 {
+  background-color: hsl(38 70% 50% / 48%);
+}
+
+.bg-accent\/49 {
+  background-color: hsl(38 70% 50% / 49%);
+}
+
+.bg-accent\/50 {
+  background-color: hsl(38 70% 50% / 50%);
+}
+
+.bg-accent\/51 {
+  background-color: hsl(38 70% 50% / 51%);
+}
+
+.bg-accent\/52 {
+  background-color: hsl(38 70% 50% / 52%);
+}
+
+.bg-accent\/53 {
+  background-color: hsl(38 70% 50% / 53%);
+}
+
+.bg-accent\/54 {
+  background-color: hsl(38 70% 50% / 54%);
+}
+
+.bg-accent\/55 {
+  background-color: hsl(38 70% 50% / 55%);
+}
+
+.bg-accent\/56 {
+  background-color: hsl(38 70% 50% / 56%);
+}
+
+.bg-accent\/57 {
+  background-color: hsl(38 70% 50% / 57%);
+}
+
+.bg-accent\/58 {
+  background-color: hsl(38 70% 50% / 58%);
+}
+
+.bg-accent\/59 {
+  background-color: hsl(38 70% 50% / 59%);
+}
+
+.bg-accent\/60 {
+  background-color: hsl(38 70% 50% / 60%);
+}
+
+.bg-accent\/61 {
+  background-color: hsl(38 70% 50% / 61%);
+}
+
+.bg-accent\/62 {
+  background-color: hsl(38 70% 50% / 62%);
+}
+
+.bg-accent\/63 {
+  background-color: hsl(38 70% 50% / 63%);
+}
+
+.bg-accent\/64 {
+  background-color: hsl(38 70% 50% / 64%);
+}
+
+.bg-accent\/65 {
+  background-color: hsl(38 70% 50% / 65%);
+}
+
+.bg-accent\/66 {
+  background-color: hsl(38 70% 50% / 66%);
+}
+
+.bg-accent\/67 {
+  background-color: hsl(38 70% 50% / 67%);
+}
+
+.bg-accent\/68 {
+  background-color: hsl(38 70% 50% / 68%);
+}
+
+.bg-accent\/69 {
+  background-color: hsl(38 70% 50% / 69%);
+}
+
+.bg-accent\/70 {
+  background-color: hsl(38 70% 50% / 70%);
+}
+
+.bg-accent\/71 {
+  background-color: hsl(38 70% 50% / 71%);
+}
+
+.bg-accent\/72 {
+  background-color: hsl(38 70% 50% / 72%);
+}
+
+.bg-accent\/73 {
+  background-color: hsl(38 70% 50% / 73%);
+}
+
+.bg-accent\/74 {
+  background-color: hsl(38 70% 50% / 74%);
+}
+
+.bg-accent\/75 {
+  background-color: hsl(38 70% 50% / 75%);
+}
+
+.bg-accent\/76 {
+  background-color: hsl(38 70% 50% / 76%);
+}
+
+.bg-accent\/77 {
+  background-color: hsl(38 70% 50% / 77%);
+}
+
+.bg-accent\/78 {
+  background-color: hsl(38 70% 50% / 78%);
+}
+
+.bg-accent\/79 {
+  background-color: hsl(38 70% 50% / 79%);
+}
+
+.bg-accent\/80 {
+  background-color: hsl(38 70% 50% / 80%);
+}
+
+.bg-accent\/81 {
+  background-color: hsl(38 70% 50% / 81%);
+}
+
+.bg-accent\/82 {
+  background-color: hsl(38 70% 50% / 82%);
+}
+
+.bg-accent\/83 {
+  background-color: hsl(38 70% 50% / 83%);
+}
+
+.bg-accent\/84 {
+  background-color: hsl(38 70% 50% / 84%);
+}
+
+.bg-accent\/85 {
+  background-color: hsl(38 70% 50% / 85%);
+}
+
+.bg-accent\/86 {
+  background-color: hsl(38 70% 50% / 86%);
+}
+
+.bg-accent\/87 {
+  background-color: hsl(38 70% 50% / 87%);
+}
+
+.bg-accent\/88 {
+  background-color: hsl(38 70% 50% / 88%);
+}
+
+.bg-accent\/89 {
+  background-color: hsl(38 70% 50% / 89%);
+}
+
+.bg-accent\/90 {
+  background-color: hsl(38 70% 50% / 90%);
+}
+
+.bg-accent\/91 {
+  background-color: hsl(38 70% 50% / 91%);
+}
+
+.bg-accent\/92 {
+  background-color: hsl(38 70% 50% / 92%);
+}
+
+.bg-accent\/93 {
+  background-color: hsl(38 70% 50% / 93%);
+}
+
+.bg-accent\/94 {
+  background-color: hsl(38 70% 50% / 94%);
+}
+
+.bg-accent\/95 {
+  background-color: hsl(38 70% 50% / 95%);
+}
+
+.bg-accent\/96 {
+  background-color: hsl(38 70% 50% / 96%);
+}
+
+.bg-accent\/97 {
+  background-color: hsl(38 70% 50% / 97%);
+}
+
+.bg-accent\/98 {
+  background-color: hsl(38 70% 50% / 98%);
+}
+
+.bg-accent\/99 {
+  background-color: hsl(38 70% 50% / 99%);
+}
+
+.bg-accent\/100 {
+  background-color: hsl(38 70% 50% / 100%);
+}
+
+.bg-foreground {
+  background-color: hsl(25, 35%, 15%);
+}
+
+.bg-foreground\/0 {
+  background-color: hsl(25 35% 15% / 0%);
+}
+
+.bg-foreground\/1 {
+  background-color: hsl(25 35% 15% / 1%);
+}
+
+.bg-foreground\/2 {
+  background-color: hsl(25 35% 15% / 2%);
+}
+
+.bg-foreground\/3 {
+  background-color: hsl(25 35% 15% / 3%);
+}
+
+.bg-foreground\/4 {
+  background-color: hsl(25 35% 15% / 4%);
+}
+
+.bg-foreground\/5 {
+  background-color: hsl(25 35% 15% / 5%);
+}
+
+.bg-foreground\/6 {
+  background-color: hsl(25 35% 15% / 6%);
+}
+
+.bg-foreground\/7 {
+  background-color: hsl(25 35% 15% / 7%);
+}
+
+.bg-foreground\/8 {
+  background-color: hsl(25 35% 15% / 8%);
+}
+
+.bg-foreground\/9 {
+  background-color: hsl(25 35% 15% / 9%);
+}
+
+.bg-foreground\/10 {
+  background-color: hsl(25 35% 15% / 10%);
+}
+
+.bg-foreground\/11 {
+  background-color: hsl(25 35% 15% / 11%);
+}
+
+.bg-foreground\/12 {
+  background-color: hsl(25 35% 15% / 12%);
+}
+
+.bg-foreground\/13 {
+  background-color: hsl(25 35% 15% / 13%);
+}
+
+.bg-foreground\/14 {
+  background-color: hsl(25 35% 15% / 14%);
+}
+
+.bg-foreground\/15 {
+  background-color: hsl(25 35% 15% / 15%);
+}
+
+.bg-foreground\/16 {
+  background-color: hsl(25 35% 15% / 16%);
+}
+
+.bg-foreground\/17 {
+  background-color: hsl(25 35% 15% / 17%);
+}
+
+.bg-foreground\/18 {
+  background-color: hsl(25 35% 15% / 18%);
+}
+
+.bg-foreground\/19 {
+  background-color: hsl(25 35% 15% / 19%);
+}
+
+.bg-foreground\/20 {
+  background-color: hsl(25 35% 15% / 20%);
+}
+
+.bg-foreground\/21 {
+  background-color: hsl(25 35% 15% / 21%);
+}
+
+.bg-foreground\/22 {
+  background-color: hsl(25 35% 15% / 22%);
+}
+
+.bg-foreground\/23 {
+  background-color: hsl(25 35% 15% / 23%);
+}
+
+.bg-foreground\/24 {
+  background-color: hsl(25 35% 15% / 24%);
+}
+
+.bg-foreground\/25 {
+  background-color: hsl(25 35% 15% / 25%);
+}
+
+.bg-foreground\/26 {
+  background-color: hsl(25 35% 15% / 26%);
+}
+
+.bg-foreground\/27 {
+  background-color: hsl(25 35% 15% / 27%);
+}
+
+.bg-foreground\/28 {
+  background-color: hsl(25 35% 15% / 28%);
+}
+
+.bg-foreground\/29 {
+  background-color: hsl(25 35% 15% / 29%);
+}
+
+.bg-foreground\/30 {
+  background-color: hsl(25 35% 15% / 30%);
+}
+
+.bg-foreground\/31 {
+  background-color: hsl(25 35% 15% / 31%);
+}
+
+.bg-foreground\/32 {
+  background-color: hsl(25 35% 15% / 32%);
+}
+
+.bg-foreground\/33 {
+  background-color: hsl(25 35% 15% / 33%);
+}
+
+.bg-foreground\/34 {
+  background-color: hsl(25 35% 15% / 34%);
+}
+
+.bg-foreground\/35 {
+  background-color: hsl(25 35% 15% / 35%);
+}
+
+.bg-foreground\/36 {
+  background-color: hsl(25 35% 15% / 36%);
+}
+
+.bg-foreground\/37 {
+  background-color: hsl(25 35% 15% / 37%);
+}
+
+.bg-foreground\/38 {
+  background-color: hsl(25 35% 15% / 38%);
+}
+
+.bg-foreground\/39 {
+  background-color: hsl(25 35% 15% / 39%);
+}
+
+.bg-foreground\/40 {
+  background-color: hsl(25 35% 15% / 40%);
+}
+
+.bg-foreground\/41 {
+  background-color: hsl(25 35% 15% / 41%);
+}
+
+.bg-foreground\/42 {
+  background-color: hsl(25 35% 15% / 42%);
+}
+
+.bg-foreground\/43 {
+  background-color: hsl(25 35% 15% / 43%);
+}
+
+.bg-foreground\/44 {
+  background-color: hsl(25 35% 15% / 44%);
+}
+
+.bg-foreground\/45 {
+  background-color: hsl(25 35% 15% / 45%);
+}
+
+.bg-foreground\/46 {
+  background-color: hsl(25 35% 15% / 46%);
+}
+
+.bg-foreground\/47 {
+  background-color: hsl(25 35% 15% / 47%);
+}
+
+.bg-foreground\/48 {
+  background-color: hsl(25 35% 15% / 48%);
+}
+
+.bg-foreground\/49 {
+  background-color: hsl(25 35% 15% / 49%);
+}
+
+.bg-foreground\/50 {
+  background-color: hsl(25 35% 15% / 50%);
+}
+
+.bg-foreground\/51 {
+  background-color: hsl(25 35% 15% / 51%);
+}
+
+.bg-foreground\/52 {
+  background-color: hsl(25 35% 15% / 52%);
+}
+
+.bg-foreground\/53 {
+  background-color: hsl(25 35% 15% / 53%);
+}
+
+.bg-foreground\/54 {
+  background-color: hsl(25 35% 15% / 54%);
+}
+
+.bg-foreground\/55 {
+  background-color: hsl(25 35% 15% / 55%);
+}
+
+.bg-foreground\/56 {
+  background-color: hsl(25 35% 15% / 56%);
+}
+
+.bg-foreground\/57 {
+  background-color: hsl(25 35% 15% / 57%);
+}
+
+.bg-foreground\/58 {
+  background-color: hsl(25 35% 15% / 58%);
+}
+
+.bg-foreground\/59 {
+  background-color: hsl(25 35% 15% / 59%);
+}
+
+.bg-foreground\/60 {
+  background-color: hsl(25 35% 15% / 60%);
+}
+
+.bg-foreground\/61 {
+  background-color: hsl(25 35% 15% / 61%);
+}
+
+.bg-foreground\/62 {
+  background-color: hsl(25 35% 15% / 62%);
+}
+
+.bg-foreground\/63 {
+  background-color: hsl(25 35% 15% / 63%);
+}
+
+.bg-foreground\/64 {
+  background-color: hsl(25 35% 15% / 64%);
+}
+
+.bg-foreground\/65 {
+  background-color: hsl(25 35% 15% / 65%);
+}
+
+.bg-foreground\/66 {
+  background-color: hsl(25 35% 15% / 66%);
+}
+
+.bg-foreground\/67 {
+  background-color: hsl(25 35% 15% / 67%);
+}
+
+.bg-foreground\/68 {
+  background-color: hsl(25 35% 15% / 68%);
+}
+
+.bg-foreground\/69 {
+  background-color: hsl(25 35% 15% / 69%);
+}
+
+.bg-foreground\/70 {
+  background-color: hsl(25 35% 15% / 70%);
+}
+
+.bg-foreground\/71 {
+  background-color: hsl(25 35% 15% / 71%);
+}
+
+.bg-foreground\/72 {
+  background-color: hsl(25 35% 15% / 72%);
+}
+
+.bg-foreground\/73 {
+  background-color: hsl(25 35% 15% / 73%);
+}
+
+.bg-foreground\/74 {
+  background-color: hsl(25 35% 15% / 74%);
+}
+
+.bg-foreground\/75 {
+  background-color: hsl(25 35% 15% / 75%);
+}
+
+.bg-foreground\/76 {
+  background-color: hsl(25 35% 15% / 76%);
+}
+
+.bg-foreground\/77 {
+  background-color: hsl(25 35% 15% / 77%);
+}
+
+.bg-foreground\/78 {
+  background-color: hsl(25 35% 15% / 78%);
+}
+
+.bg-foreground\/79 {
+  background-color: hsl(25 35% 15% / 79%);
+}
+
+.bg-foreground\/80 {
+  background-color: hsl(25 35% 15% / 80%);
+}
+
+.bg-foreground\/81 {
+  background-color: hsl(25 35% 15% / 81%);
+}
+
+.bg-foreground\/82 {
+  background-color: hsl(25 35% 15% / 82%);
+}
+
+.bg-foreground\/83 {
+  background-color: hsl(25 35% 15% / 83%);
+}
+
+.bg-foreground\/84 {
+  background-color: hsl(25 35% 15% / 84%);
+}
+
+.bg-foreground\/85 {
+  background-color: hsl(25 35% 15% / 85%);
+}
+
+.bg-foreground\/86 {
+  background-color: hsl(25 35% 15% / 86%);
+}
+
+.bg-foreground\/87 {
+  background-color: hsl(25 35% 15% / 87%);
+}
+
+.bg-foreground\/88 {
+  background-color: hsl(25 35% 15% / 88%);
+}
+
+.bg-foreground\/89 {
+  background-color: hsl(25 35% 15% / 89%);
+}
+
+.bg-foreground\/90 {
+  background-color: hsl(25 35% 15% / 90%);
+}
+
+.bg-foreground\/91 {
+  background-color: hsl(25 35% 15% / 91%);
+}
+
+.bg-foreground\/92 {
+  background-color: hsl(25 35% 15% / 92%);
+}
+
+.bg-foreground\/93 {
+  background-color: hsl(25 35% 15% / 93%);
+}
+
+.bg-foreground\/94 {
+  background-color: hsl(25 35% 15% / 94%);
+}
+
+.bg-foreground\/95 {
+  background-color: hsl(25 35% 15% / 95%);
+}
+
+.bg-foreground\/96 {
+  background-color: hsl(25 35% 15% / 96%);
+}
+
+.bg-foreground\/97 {
+  background-color: hsl(25 35% 15% / 97%);
+}
+
+.bg-foreground\/98 {
+  background-color: hsl(25 35% 15% / 98%);
+}
+
+.bg-foreground\/99 {
+  background-color: hsl(25 35% 15% / 99%);
+}
+
+.bg-foreground\/100 {
+  background-color: hsl(25 35% 15% / 100%);
+}
+
+.bg-gradient-card {
+  background: linear-gradient(145deg, hsl(35, 30%, 98%) 0%, hsl(35, 25%, 93%) 100%);
+}
+
+.bg-background {
+  background-color: hsl(35, 30%, 97%);
+}
+
+.bg-gradient-warm {
+  background: linear-gradient(135deg, hsl(35, 40%, 95%) 0%, hsl(30, 35%, 88%) 100%);
+}
+
+p,
+a,
+span {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+  font-family: Playfair Display, serif;
+}
+
+.shadow-card {
+  box-shadow: 0 10px 40px -10px hsla(25, 35%, 15%, 0.12);
+}
+
+.tracking-wider {
+  letter-spacing: 0.05em;
+}
+
+body {
+  background-color: hsl(35, 30%, 97%);
+  color: hsl(25, 35%, 15%);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+
+.bg-gradient-hero {
+  background: linear-gradient(180deg, hsl(35, 30%, 97%) 0%, hsl(35, 40%, 92%) 100%);
+}
+
+.bg-accent-blur {
+  background: rgba(255, 120, 90, 0.1);
+  border-radius: 50%;
+  filter: blur(3em);
+}
+
+.bg-leaf-blur {
+  background: rgba(90, 255, 120, 0.1);
+  border-radius: 50%;
+  filter: blur(3em);
+}
+
+.bg-accent-faint {
+  background: rgba(255, 120, 90, 0.3);
+}
+
+.bg-primary-faint {
+  background: rgba(30, 50, 120, 0.2);
+}
+
+.bg-leaf-faint {
+  background: rgba(90, 255, 120, 0.4);
+}
+
+.leading-relaxed {
+  line-height: 1.625;
+}
+
+.floating-dot {
+  border-radius: 50%;
+  animation: float 4s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
 }/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,55 @@
+@use '../variable/variable' as var;
+
+// ---------- leaf-------------------
+.bg-primary {
+  background-color: hsl(var.$primary);
+}
+
+@for $i from 0 through 100 {
+  .bg-primary\/#{$i} {
+    background-color: #{'hsl(' + var.$primary + ' / ' + $i + '%)'};
+  }
+}
+
+// ---------- leaf-------------------
+.bg-leaf {
+  background-color: hsl(var.$leaf);
+}
+@for $i from 0 through 100 {
+  .bg-leaf\/#{$i} {
+    background-color: #{'hsl(' + var.$leaf + ' / ' + $i + '%)'};
+  }
+}
+
+// ------------- accent ----------------
+.bg-accent {
+  background-color: hsl(var.$accent);
+}
+@for $i from 0 through 100 {
+  .bg-accent\/#{$i} {
+    background-color: #{'hsl(' + var.$accent + ' / ' + $i + '%)'};
+  }
+}
+
+// -------- foreground ---------------------
+.bg-foreground {
+  background-color: hsl(var.$foreground);
+}
+@for $i from 0 through 100 {
+  .bg-foreground\/#{$i} {
+    background-color: #{'hsl(' + var.$foreground + ' / ' + $i + '%)'};
+  }
+}
+// -----------------------------
+
+.bg-gradient-card {
+  background: var.$gradient-card;
+}
+
+.bg-background {
+  background-color: hsl(var.$background);
+}
+
+.bg-gradient-warm {
+  background: var.$gradient-warm;
+}

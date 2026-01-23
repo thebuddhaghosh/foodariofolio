@@ -1,3 +1,56 @@
 @use './global/global.scss';
 @use './variable/variable' as var;
-@use './components/button';
+
+body {
+  background-color: hsl(var.$background);
+  color: hsl(var.$foreground);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+}
+
+.bg-gradient-hero {
+  background: var.$gradient-hero;
+}
+
+.bg-accent-blur {
+  background: rgba(255, 120, 90, 0.1);
+  border-radius: 50%;
+  filter: blur(3em);
+}
+
+.bg-leaf-blur {
+  background: rgba(90, 255, 120, 0.1);
+  border-radius: 50%;
+  filter: blur(3em);
+}
+
+.bg-accent-faint {
+  background: rgba(255, 120, 90, 0.3);
+}
+
+.bg-primary-faint {
+  background: rgba(30, 50, 120, 0.2);
+}
+
+.bg-leaf-faint {
+  background: rgba(90, 255, 120, 0.4);
+}
+.leading-relaxed {
+  line-height: 1.625;
+}
+.floating-dot {
+  border-radius: 50%;
+  animation: float 4s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
