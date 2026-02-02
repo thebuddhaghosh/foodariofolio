@@ -20,6 +20,16 @@
     color: #{'hsl(' + var.$accent + ' / ' + $i + '%)'};
   }
 }
+// ------------- accent ----------------
+.text-primary-foreground {
+  color: hsl(var.$primary-foreground);
+}
+
+@for $i from 0 through 100 {
+  .text-primary-foreground\/#{$i} {
+    color: #{'hsl(' + var.$primary-foreground + ' / ' + $i + '%)'};
+  }
+}
 
 // ------------- golden ----------------
 .text-gradient-golden {
